@@ -1,0 +1,15 @@
+"E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armJET.dll" 
+
+"E:\workspace\IAR\Mem_Arrange_Demo\Debug\Exe\Memo_Arrange_demo.out" 
+
+--plugin="E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="E:\special software\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/Renesas/RZT2M.dmac" 
+
+--flash_loader="E:\special software\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/Renesas/FlashRSK_RZT2M.board" 
+
+
+
+
